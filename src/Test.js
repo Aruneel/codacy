@@ -1,5 +1,5 @@
 function Test() {
-    let strArr = ["a", "b", "c"];
+    let strArr = ["a", "b", "c"]
 
     return (
         <div>
@@ -10,7 +10,7 @@ function Test() {
                 })}         
             </ul>
         </div>
-    );
+    )
 }
 
-export default Test;
+export default Test
